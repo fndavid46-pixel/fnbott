@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": {friendsmp
     "ip": "friendsmp-pRhg.aternos.me",
-    "port": 27586,
+    "port":50798 ,
     "version": "",
     "try-creative": false
   },
