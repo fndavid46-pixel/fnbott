@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {friendsmp
-    "ip": "friendsmp-pRhg.aternos.me",
+    "ip": "friendsmp-pRhg.aternos.me:50798",
     "port":50798 ,
     "version": "",
     "try-creative": false
